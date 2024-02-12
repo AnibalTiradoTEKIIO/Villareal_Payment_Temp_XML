@@ -1,0 +1,53 @@
+{
+    "ieps_total": "0.00",
+    "iva_total": "10264.55",
+    "retencion_total": "0.00",
+    "local_total": "0.00",
+    "exento_total": "0.00",
+    "ieps_total_gbl": "0.00",
+    "iva_total_gbl": "10264.55",
+    "retencion_total_gbl": "0.00",
+    "local_total_gbl": "0.00",
+    "exento_total_gbl": 0,
+    "rates_ieps": {},
+    "rates_ieps_data": {},
+    "bases_ieps": {},
+    "rates_iva": {
+        "IVA 16%": "10264.55"
+    },
+    "rates_iva_data": {
+        "16": "10264.55"
+    },
+    "bases_iva": {
+        "16": "64153.44"
+    },
+    "rates_retencion": {},
+    "rates_retencion_data": {},
+    "bases_retencion": {},
+    "rates_local": {},
+    "rates_local_data": {},
+    "bases_local": {},
+    "rates_exento": {},
+    "rates_exento_data": {},
+    "bases_exento": {},
+    "monto_ieps_gbl": {},
+    "monto_iva_gbl": {
+        "16": "10264.55"
+    },
+    "monto_ret_gbl": {},
+    "monto_local_gbl": {},
+    "monto_exento_gbl": {},
+    "descuentoConImpuesto": 0,
+    "descuentoSinImpuesto": 0,
+    "totalImpuestos": "10264.55",
+    "subtotal": "64153.44",
+    "total": "74417.99",
+    "totalTraslados": "10264.55",
+    "totalRetenciones": "0.00",
+    "diferenciaTotales": 0,
+    "totalImpuestos_gbl": "10264.55",
+    "subtotal_gbl": "64153.44",
+    "total_gbl": "74417.99",
+    "totalTraslados_gbl": "10264.55",
+    "totalRetenciones_gbl": "0.00"
+}
